@@ -11,12 +11,11 @@
   ## 👀 About Me
    <div align="center">
 
- 👋 안녕하세요, 곽승현입니다!
-
-**백엔드 개발을 배우며,<br>매일 조금씩 성장 중입니다.**
-
-
+ 👋 안녕하세요, 전직 인문학도에서 백엔드 개발자로 전향한 개발 지망생입니다.  
+한문학 전공을 바탕으로 논리적인 사고와 글쓰기 능력을 강점으로 삼고,  
+기술적 깊이와 실용적 개발 역량을 꾸준히 다듬고 있습니다.
 </div>
+
 
   
   ## 🧱 Tech Stack
@@ -49,9 +48,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuSiEDa&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+![Visitor Count](https://profile-counter.glitch.me/LuSiEDa/count.svg)
 </div>
-  
 
+ 
 
 </div>
 
